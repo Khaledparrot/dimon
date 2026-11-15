@@ -1,0 +1,7 @@
+{
+  "appId": "com.sigil.demonfinder",
+  "appName": "Demon Finder",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
